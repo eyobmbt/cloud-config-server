@@ -17,6 +17,3 @@ microservice:
     endpoints:
       endpoint:
         uri: http://ORDER-SERVICE/order/doOrder
- logging:
-  file:
-    path: /Home/Desktop/EA/logs/microservice.log
