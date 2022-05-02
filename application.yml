@@ -19,4 +19,4 @@ microservice:
         uri: http://ORDER-SERVICE/order/doOrder
  logging:
   file:
-    path: /Home/Desktop/EA/microservice.log
+    path: /Home/Desktop/EA/logs/microservice.log
